@@ -1,7 +1,7 @@
-﻿<?Infragistics.Models format="xaml" version="29" appVersion="9.2.1000.51"?>
+﻿<?Infragistics.Models format="xaml" version="29" appVersion="9.2.0.72"?>
 <Page xmlns="http://prototypes.infragistics.com/"
-                                                                                   xmlns:d="http://prototypes.infragistics.com/views/design"
-                                                                                   Id="249ada90-111b-4455-863e-5abf788e5697" d:Design.ShowGuides="False">
+                                                                                xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                Id="249ada90-111b-4455-863e-5abf788e5697" d:Design.ShowGuides="False">
     <Page.Content>
         <Content Width="1024" Height="768" Id="3faf5d71-42b0-4f8d-bd1e-da97be313d4d">
             <Content.Layers>
@@ -138,7 +138,7 @@
                         </Add>
                         <Add Property="Panel.Children" Target="e4d03606-36f7-410d-b417-165aeea2d894">
                             <Add.Item>
-                                <ComboBox IsOpen="True" FontFamily="Georgia" Id="0335c59c-4828-4b3c-a34a-1b5f7441ee1d" Panel.Bounds="611,375,200{5,2147483647},28{5,2147483647}">
+                                <ComboBox FontFamily="Georgia" Id="0335c59c-4828-4b3c-a34a-1b5f7441ee1d" Panel.Bounds="611,375,200{5,2147483647},28{5,2147483647}">
                                     <ComboBox.Items>
                                         <Item Text="Friend 1" Id="9673a49a-ef47-4e30-92b0-6951e6702d8a" />
                                         <Item Text="Friend 2" Id="a18a7a4d-fe63-407e-92c3-f3f3339b5765" />
@@ -153,7 +153,7 @@
                         </Add>
                         <Add Property="Panel.Children" Target="e4d03606-36f7-410d-b417-165aeea2d894">
                             <Add.Item>
-                                <ComboBox IsOpen="True" FontFamily="Georgia" Id="526c219b-31db-4d7a-a7b0-dc996cd40964" Panel.Bounds="611,417,200{5,2147483647},30{5,2147483647}">
+                                <ComboBox FontFamily="Georgia" Id="526c219b-31db-4d7a-a7b0-dc996cd40964" Panel.Bounds="611,417,200{5,2147483647},30{5,2147483647}">
                                     <ComboBox.Items>
                                         <Item Text="Public" Id="981e96c5-e747-4ce9-98df-552a3762ba27" />
                                         <Item Text="Private" Id="74cb1252-5352-4581-b1ce-8c1253dd07cc" />
